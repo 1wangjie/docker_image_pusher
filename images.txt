@@ -1,1 +1,1 @@
-netshoot
+nginx
