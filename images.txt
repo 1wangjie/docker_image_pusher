@@ -1,1 +1,1 @@
-nicolaka/netshoot:latest
+jenkins/jenkins:2.346.1
