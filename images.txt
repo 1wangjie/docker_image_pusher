@@ -1,1 +1,1 @@
-jenkins/agent:jdk21
+nginx:1.7.9
