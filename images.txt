@@ -1,1 +1,1 @@
-busybox
+nicolaka/netshoot:latest
